@@ -1,0 +1,12 @@
+*{
+	margin:0;
+	padding:0;
+	box-sizing:border-box;
+	
+}
+.hover:hover{
+	color:red;
+}
+.accordion-button:not(.collapsed){
+	color:red!important;
+}
